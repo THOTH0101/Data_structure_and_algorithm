@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Infix_to_prefix.dir/main.cpp.o -o Infix_to_prefix 
