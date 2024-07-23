@@ -1,3 +1,0 @@
-/home/thoth/Practice & Projects/C_plus_plus_practice/Postfix_evaluation/Debug/CMakeFiles/Postfix_evaluation.dir
-/home/thoth/Practice & Projects/C_plus_plus_practice/Postfix_evaluation/Debug/CMakeFiles/edit_cache.dir
-/home/thoth/Practice & Projects/C_plus_plus_practice/Postfix_evaluation/Debug/CMakeFiles/rebuild_cache.dir

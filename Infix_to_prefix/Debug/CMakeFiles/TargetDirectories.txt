@@ -1,3 +1,0 @@
-/home/thoth/Practice & Projects/C_plus_plus_practice/Infix_to_prefix/Debug/CMakeFiles/Infix_to_prefix.dir
-/home/thoth/Practice & Projects/C_plus_plus_practice/Infix_to_prefix/Debug/CMakeFiles/edit_cache.dir
-/home/thoth/Practice & Projects/C_plus_plus_practice/Infix_to_prefix/Debug/CMakeFiles/rebuild_cache.dir

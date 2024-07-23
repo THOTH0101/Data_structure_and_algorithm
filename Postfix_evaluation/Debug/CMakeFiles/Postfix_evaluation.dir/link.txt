@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/Postfix_evaluation.dir/main.cpp.o -o Postfix_evaluation 
